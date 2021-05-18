@@ -33,6 +33,7 @@
 12. Platforms
     * Operating systems
     * Virtual Machines
+      * JVM [a relative link](content/Platforms/VirtualMachines/JVM/jvm.md)
     * Docker [a relative link](content/Platforms/Docker/Docker.md)
     * Kubernetes
     * OpenShift
