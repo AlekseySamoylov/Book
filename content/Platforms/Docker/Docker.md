@@ -33,3 +33,14 @@ Docker image meta info
 ```
 docker inspect --format "{{ index .Config.Labels \"buildVersion\"}}" docker_container_1
 ```
+
+## Docker image to file
+```
+docker pull docker-image/amd64-linux:latest
+docker save -o ./docker-image.tar docker-image/amd64-linux:latest
+ls | grep tar
+
+sudo docker load --input docker-image.tar
+sudo docker images
+sudo docker run --rm -d --network host --name docker-image docker-image/amd64-linux:latest
+```

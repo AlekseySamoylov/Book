@@ -8,7 +8,7 @@
         * Meditation
         * Communications
     * Body
-        * Breathing
+        * Breathing [a relative link](content/Health/Body/Breathing.md)
         * Sleep
         * Physical activities
         * Food
