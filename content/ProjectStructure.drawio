@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T03:43:08.241Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" version="14.7.2" etag="fw4BShaJYv2IugQrDH-X" type="github"><diagram id="pDpUwjDxbIi_KdWyIUPn">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-28T03:43:27.154Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="aOs-5GhaEbvI8XYMmxKO" version="14.7.2" type="github">
+  <diagram id="pDpUwjDxbIi_KdWyIUPn" name="Page-1">
+    <mxGraphModel dx="1293" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5xvSrlmUKVwaciJrWyOJ-1" value="Team management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="510" y="60" width="290" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="5xvSrlmUKVwaciJrWyOJ-2" value="Source code management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="170" y="60" width="290" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="5xvSrlmUKVwaciJrWyOJ-3" value="CI/CD Pipelines management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="510" y="300" width="290" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="5xvSrlmUKVwaciJrWyOJ-4" value="Project health monitoring" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="280" width="290" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="5xvSrlmUKVwaciJrWyOJ-5" value="Security" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="510" width="290" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="5xvSrlmUKVwaciJrWyOJ-6" value="Backup and recovery management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="840" y="300" width="290" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="5xvSrlmUKVwaciJrWyOJ-7" value="Project landscape" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="200" y="560" width="760" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="5xvSrlmUKVwaciJrWyOJ-8" value="Business analysis" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="560" width="210" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="5xvSrlmUKVwaciJrWyOJ-9" value="Component deployment / auto-recovery / auto-scale&lt;br&gt;&lt;br&gt;Portainer&lt;br&gt;..." style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="740" width="290" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="5xvSrlmUKVwaciJrWyOJ-10" value="Credential provider (Vault)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="550" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5xvSrlmUKVwaciJrWyOJ-11" value="Discovery management&lt;br&gt;(use host names instead of IPs)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5xvSrlmUKVwaciJrWyOJ-12" value="Documentation / Knowledge base / Onboarding" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="840" y="60" width="290" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
